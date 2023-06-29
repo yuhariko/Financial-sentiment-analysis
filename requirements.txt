@@ -1,0 +1,12 @@
+nltk==3.8.1
+numpy==1.22.0
+pandas==1.4.0
+spacy==3.2.1
+matplotlib==3.5.1
+seaborn==0.12.2
+scikit-learn==1.0.2
+wordnet==3.0.0
+xgboost==1.5.1
+transformers==4.29.1
+accelerate==0.20.2
+gensim==4.2.0
